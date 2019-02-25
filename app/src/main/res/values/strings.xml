@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name"> Rateaurant </string>
+    <string name="title_activity_restaurants">RestaurantsActivity</string>
+    <string name="title_activity_restaurant_info">RestaurantInfoActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_restaurant_edit">RestaurantEditActivity</string>
+</resources>
